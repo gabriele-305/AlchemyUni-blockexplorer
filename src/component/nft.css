@@ -1,0 +1,45 @@
+* {
+  height: 100%;
+}
+.mainNft {
+  padding: 2% 2%;
+}
+.titleNft h1 {
+  height: auto;
+  font-size: 20px;
+  width: auto;
+}
+.bodyNft {
+  width: 94%;
+}
+a {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+.bodyNft div {
+  border-bottom: 1px solid black;
+  padding: 2% 1%;
+}
+.bodyNft div div {
+  border: none;
+  padding: 0;
+  padding-left: 1%;
+}
+.here {
+  font-size: 18px;
+  text-decoration: underline;
+}
+.bodyNft .sales {
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-top: 1%;
+  width: 80%;
+}
+.nftTitle {
+  font-size: 20px;
+}

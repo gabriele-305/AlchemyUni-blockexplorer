@@ -1,0 +1,45 @@
+* {
+  height: 100%;
+}
+.mainTx {
+  padding: 2.5% 2%;
+}
+.titleTx {
+  display: flex;
+  width: 100%;
+}
+.titleTx h1 {
+  height: auto;
+  width: auto;
+  font-size: 20px;
+}
+.success {
+  display: flex;
+  width: auto;
+  padding: 1% 1%;
+  color: #44ff00;
+  font-size: 16px;
+}
+.error {
+  display: flex;
+  width: auto;
+  padding: 1% 1%;
+  color: #ff0000;
+  font-size: 16px;
+}
+.bodyTx h3 {
+  padding: 0 2%;
+  font-size: 18px;
+}
+.bodyTx div {
+  border-bottom: 1px solid black;
+  width: 80%;
+  margin-bottom: 3%;
+}
+.bodyTx .gas {
+  border: none;
+  display: flex;
+}
+.gas h3 {
+  width: 20%;
+}
